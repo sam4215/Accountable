@@ -11,10 +11,12 @@ Accountable may not work properly if you do any of these. So, please, DO NOT:
 - Try changing the names of any files that Accountable comes with, ever. Then Accountable can't reach its files and guess what? Nothing works!
 - Claim this software as your own. You can edit, remix, whatever. Just give credit and do not violate the license. The MIT license is legally binding and you can go to court and be sued. Really. A copy of the license can be found in the LICENSE file.
 - Violate the End User License Agreement (EULA), if I ever add one. See above.
+
 #Planned Features
 - C++ wrapper, launching the program seamlessly.
 - Support for a Company/Organisation field, somewhere.
 - MySQL support (not high priority)
-#CI
 
+#CI
+SoonTM
 
